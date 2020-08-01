@@ -1,5 +1,4 @@
 ###########################################################
-setwd('~/Dropbox/Workspace/MayoClinic/Temp/Zhuyao/2017_03_02_Analysis/PenileCancerGitHub')
 
 source('Code/Functions.R')
 temp <- load('Data/data.RData')
